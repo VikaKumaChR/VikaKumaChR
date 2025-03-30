@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## Newbie — 维VkC
 
-loerm 
+非专业就读软工学生.
 
 ### **社交主页：**
 
