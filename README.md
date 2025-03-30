@@ -1,6 +1,6 @@
-<img align="right" src="https://count.getloli.com/get/@:VikaKumaChR?theme=capoo-2">
+<img align="right" src="https://count.getloli.com/get/@:VikaKumaChR?theme=food">
 
-## Newbie — 维VkC
+## 维VkC
      非专业就读软工学生.
 
 ### **社交主页：**
