@@ -2,7 +2,7 @@
 
 ## Newbie — 维VkC
 
-  非专业就读软工学生.
+     非专业就读软工学生.
 
 ### **社交主页：**
 
@@ -31,8 +31,8 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=VikaKumaChR&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=VikaKumaChR&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikaKumaChR&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VikaKumaChR&layout=compact&langs_count=6)
