@@ -1,26 +1,23 @@
-<img align="right" src="https://count.getloli.com/get/@:VikaKumaChR?theme=food">
+<img align="right" src="https://count.getloli.com/get/@:VikaKumaChR?theme=capoo-1">
 
-# 🎵 维VkC
-🌟 *非专业就读软工学生，热爱编程与创作！*
 
-<table>
-  <tr>
-    <td>
-      <a href="https://space.bilibili.com/387756916">
-        <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Bilibili_Logo_Icon.svg">
-      </a>
-      <b>B站频道</b>：MuseDash 二创影片制作 w。
-    </td>
-    <td><img src="你的GIF链接" width="200"></td>
-  </tr>
-</table>
+## 维VkC
+     非专业就读软工学生.
 
-## 💻 **正在学习的编程语言**
+### **社交主页：**
+
+ <img align="right" alt="GIF" src="./images/HappyCat.gif" width="300" height="100%" />
+
+
+-   <a href="https://space.bilibili.com/387756916"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：MuseDash二创影片制作频道w。
+
+
+### **使用&学习中的编程语言:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
 
-## 📊 **Github 统计**
-![VikaKumaChR's github stats](https://github-readme-stats.vercel.app/api?username=VikaKumaChR&show_icons=true&theme=vue)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikaKumaChR&layout=compact&theme=vue)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VikaKumaChR&theme=vue)  
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=VikaKumaChR&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=VikaKumaChR&show_icons=true&theme=vue)
