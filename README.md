@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/Buro_jk.gif" width="300" height="100%" />
+ <img align="right" alt="GIF" src="./images/(Pre-release).png" width="300" height="100%" />
 
 
 -   <a href="https://space.bilibili.com/387756916"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：MuseDash二创影片制作频道w。
@@ -18,7 +18,7 @@
 
 ### **使用&学习中的编程语言:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/c.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
 <a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
