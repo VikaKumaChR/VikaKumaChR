@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/images/0901_250328213015_120_256_128.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/0901_250328213015_120_256_128.gif" width="430" height="100%" />
 
 
 -   <a href="https://space.bilibili.com/387756916"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：MuseDash二创影片制作频道w。
