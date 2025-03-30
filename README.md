@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:VikaKumaChR?theme=rule34">
 
 ## Newbie — 维VkC
 
@@ -29,10 +29,7 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
 
-[![]()
-<br><br><br>
 
 ### Github 活跃度
 
