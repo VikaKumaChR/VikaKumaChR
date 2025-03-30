@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:VikaKumaChR?theme=food">
 
-# 🎵 维VkC | **  
+# 🎵 维VkC
 🌟 *非专业就读软工学生，热爱编程与创作！*  
 
 ## 🌍 **社交主页**  
