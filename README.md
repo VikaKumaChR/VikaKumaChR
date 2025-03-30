@@ -1,7 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:VikaKumaChR?theme=rule34">
 
 ## Newbie — 维VkC
-
      非专业就读软工学生.
 
 ### **社交主页：**
