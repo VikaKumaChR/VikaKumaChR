@@ -2,7 +2,9 @@
 
 
 ## 维VkC
-🌟 *_不是很强，但要努力变强_*
+🌟 
+
+*_不是很强，但要努力变强_*
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/HappyCat.gif" width="300" height="100%" />
