@@ -1,4 +1,4 @@
-<img id="result" src="https://count.getloli.com/@timer?name=timer&amp;theme=food&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=0.6&amp;pixelated=1&amp;darkmode=auto&amp;_=0.1880435478029321">
+<img align="right" src="https://count.getloli.com/get/@:VikaKumaChR?theme=capoo-1" style="transform: scale(0.05); transform-origin: top right;">
 
 ## 维VkC
  
