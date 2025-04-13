@@ -1,4 +1,5 @@
-[https://count.getloli.com/@kangshek?name=kangshek&theme=food&padding=5&offset=5&align=top&scale=0.5&pixelated=1&darkmode=auto](https://count.getloli.com/@kangshek?name=kangshek&theme=food&padding=5&offset=5&align=top&scale=0.5&pixelated=1&darkmode=auto)
+https://count.getloli.com/@kangshek?name=kangshek&theme=food&padding=5&offset=5&align=top&scale=0.5&pixelated=1&darkmode=auto
+
 ## 维VkC
  
 
