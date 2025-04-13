@@ -7,8 +7,7 @@
 
 
 
-🌟*_不是很强，
-但要努力变强_*
+🌟不是很强，但要努力变强
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/HappyCat.gif" width="300" height="100%" />
