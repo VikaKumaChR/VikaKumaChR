@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:VikaKumaChR?theme=capoo-1" style="transform: scale(0.05); transform-origin: top right;">
+[<img src="https://count.getloli.com/@:name" alt=":name" />](https://count.getloli.com/@kangshek?name=kangshek&theme=random&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto)
 
 ## 维VkC
  
