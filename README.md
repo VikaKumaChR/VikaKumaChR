@@ -1,4 +1,4 @@
-[<img src="https://count.getloli.com/@:name" alt=":name" />](https://count.getloli.com/@kangshek?name=kangshek&theme=food&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto)
+[[<img src="https://count.getloli.com/@:name" alt=":name" />](https://count.getloli.com/@kangshek?name=kangshek&theme=food&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto)](https://count.getloli.com/@kangshek?name=kangshek&theme=food&padding=5&offset=5&align=top&scale=0.5&pixelated=1&darkmode=auto)
 
 ## 维VkC
  
