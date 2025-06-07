@@ -8,7 +8,7 @@
 🌟不是很强，但要努力变强
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/noddig_dove.gif" width="500" height="100%" />
+ <img align="right" alt="GIF" src="./images/nodding_dove.gif" width="300" height="100%" />
 
 
 -   <a href="https://space.bilibili.com/387756916"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：MuseDash二创影片制作频道w。
