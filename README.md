@@ -17,9 +17,9 @@
 ### **使用&学习中的编程语言:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Language-C-A8B9CC?style=flat&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Language-Vue-4FC08D?logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white">
 </p>
 
 ### Github 活跃度
