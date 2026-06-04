@@ -1,6 +1,6 @@
 <!-- Personal Banner -->
 <p align="center">
-  <img src="https://github.com/VikaKumaChR/VikaKumaChR/blob/main/Resource/Test_Cut04(Watermarked).png" "alt="VkC Personal Banner" width="125%" />
+  <img src="https://github.com/VikaKumaChR/VikaKumaChR/blob/main/Resource/Test_Cut04(Watermarked).png" "alt="VkC Personal Banner" width="200%" />
 </p>
 
 <h1 align="center">Hi, I'm VkC 👋</h1>
