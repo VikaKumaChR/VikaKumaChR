@@ -21,7 +21,7 @@ currently_exploring:
 ```
 
 <div align="center">
-  <img src="./Resource/about-illustration.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="85%" />
+  <img src="./Resource/BannerCut01.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="85%" />
 </div>
 
 ## Software & Programming Languages
