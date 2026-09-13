@@ -2,11 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=维嘉VkC&fontSize=42&fontAlignY=30&desc=VikaKumaChR&descAlignY=51&descAlign=50" width="100%">
 </div>
 
-## About Me
-
-<div align="center">
-  <img src="./Resource/BannerCut01.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="75%" />
-</div>
+# About Me
 
 ```yaml
 name: 维嘉VkC
@@ -24,8 +20,11 @@ currently_exploring:
   - Digital asset organization
 ```
 
+<div align="center">
+  <img src="./Resource/BannerCut01.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="75%" />
+</div>
 
-## Software & Programming Languages
+# Software & Programming Languages
 
 ### Software
 
