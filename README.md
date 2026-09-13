@@ -61,10 +61,6 @@ currently_exploring:
     <img src="https://img.shields.io/badge/Bilibili-%E7%BB%B4%E5%98%89VkC-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="VkC on Bilibili" />
   </a>
 </p>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
-</div>
 
 ## Activity
 
@@ -72,4 +68,8 @@ currently_exploring:
   <a href="https://github.com/VikaKumaChR">
     <img src="https://ghchart.rshah.org/9F8BD1/VikaKumaChR" alt="VkC's GitHub contribution calendar" width="95%" />
   </a>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 </div>
