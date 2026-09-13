@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=维嘉VkC&fontSize=42&fontAlignY=30&desc=VikaKumaChR&descAlignY=51&descAlign=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=维嘉VkC&fontSize=42&fontAlignY=30&desc=VikaKumaChR&descAlignY=51&descAlign=50" width="100%">
 </div>
 
-About Me
+## About Me
 
+```yaml
 name: 维嘉VkC
 roles: Creative Developer · Visual Design Learner · Digital Content Creator
 interests:
@@ -15,14 +16,15 @@ currently_exploring:
   - Web and software tools
   - Programming basics
   - Digital asset organization
+```
 
 <div align="center">
   <img src="./Resource/about-illustration.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="85%" />
 </div>
 
-Software & Programming Languages
+## Software & Programming Languages
 
-Software
+### Software
 
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
@@ -32,7 +34,7 @@ Software
   <img src="https://img.shields.io/badge/Office-DC3E15?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Office" />
 </p>
 
-Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -41,7 +43,7 @@ Programming Languages
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
-Contact
+## Contact
 
 <p>
   <a href="mailto:vikakumachr@gmail.com">
@@ -52,7 +54,7 @@ Contact
   </a>
 </p>
 
-Activity
+## Activity
 
 <div align="center">
   <a href="https://github.com/VikaKumaChR">
@@ -60,14 +62,14 @@ Activity
   </a>
 </div>
 
-Creative Life
+## Creative Life
 
 <p>
   <a href="https://space.bilibili.com/387756916">
     <img src="https://img.shields.io/badge/Bilibili-%E7%BB%B4%E5%98%89VkC-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="VkC on Bilibili" />
   </a>
 </p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 </div>
