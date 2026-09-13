@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./Resource/BannerCut01.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="65%" />
+  <img src="./Resource/BannerCut01.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="70%" />
 </div>
 
 ## Software & Programming Languages
