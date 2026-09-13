@@ -7,9 +7,11 @@
 ```yaml
 name: 维嘉VkC
 roles: Creative Developer · Visual Design Learner · Digital Content Creator
+
 interests:
   - Visual design and digital media
   - Software customization and creative coding
+
 currently_exploring:
   - UI and theme customization
   - Video content creation
@@ -29,9 +31,7 @@ currently_exploring:
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
   <img src="https://img.shields.io/badge/Typora-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Typora" />
-  <img src="https://img.shields.io/badge/Office-DC3E15?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Office" />
 </p>
 
 ### Programming Languages
@@ -54,14 +54,6 @@ currently_exploring:
   </a>
 </p>
 
-## Activity
-
-<div align="center">
-  <a href="https://github.com/VikaKumaChR">
-    <img src="https://ghchart.rshah.org/9F8BD1/VikaKumaChR" alt="VkC's GitHub contribution calendar" width="95%" />
-  </a>
-</div>
-
 ## Creative Life
 
 <p>
@@ -72,4 +64,12 @@ currently_exploring:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+</div>
+
+## Activity
+
+<div align="center">
+  <a href="https://github.com/VikaKumaChR">
+    <img src="https://ghchart.rshah.org/9F8BD1/VikaKumaChR" alt="VkC's GitHub contribution calendar" width="95%" />
+  </a>
 </div>
