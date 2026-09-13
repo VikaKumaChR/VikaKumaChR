@@ -4,6 +4,10 @@
 
 ## About Me
 
+<div align="center">
+  <img src="./Resource/BannerCut01.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="75%" />
+</div>
+
 ```yaml
 name: 维嘉VkC
 roles: Creative Developer · Visual Design Learner · Digital Content Creator
@@ -20,9 +24,6 @@ currently_exploring:
   - Digital asset organization
 ```
 
-<div align="center">
-  <img src="./Resource/BannerCut01.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="85%" />
-</div>
 
 ## Software & Programming Languages
 
