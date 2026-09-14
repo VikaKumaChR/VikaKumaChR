@@ -36,13 +36,7 @@
   </a>
 </p>
 
-## Creative Life
 
-<p>
-  <a href="https://space.bilibili.com/387756916">
-    <img src="https://img.shields.io/badge/Bilibili-%E7%BB%B4%E5%98%89VkC-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="VkC on Bilibili" />
-  </a>
-</p>
 
 ## Activity
 
