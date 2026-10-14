@@ -6,6 +6,9 @@
   <img src="./Resource/BannerCut01.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="70%" />
 </div>
 
+## 我的部落格^^
+https://blog.vikakumachr.workers.dev/#hero
+
 ## Software & Programming Languages
 
 ### Software
