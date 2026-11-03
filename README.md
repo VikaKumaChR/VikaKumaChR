@@ -7,7 +7,9 @@
 </div>
 
 ## 我的部落格^^
-https://blog.vikakumachr.workers.dev/#hero
+<a href="https://vikakumachr.blog/" target="_blank">
+  <img src="https://img.shields.io/badge/我的部落格-c6bae0?style=for-the-badge" alt="我的部落格" />
+</a>
 
 ## Software & Programming Languages
 
