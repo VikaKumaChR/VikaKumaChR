@@ -8,7 +8,7 @@
 
 ## 我的部落格^^
 <a href="https://vikakumachr.blog/" target="_blank">
-  <img src="https://img.shields.io/badge/VkC's Blog-c6bae0?style=for-the-badge&logo=readme&logoColor=white" alt="VkC's Blog" />
+  <img src="https://img.shields.io/badge/VkC's Blog-83789a?style=for-the-badge&logo=readme&logoColor=white" alt="VkC's Blog" />
 </a>
 
 ## Software & Programming Languages
