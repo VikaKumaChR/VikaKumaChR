@@ -6,10 +6,6 @@
   <img src="./Resource/BannerCut01.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="70%" />
 </div>
 
-## 我的部落格^^
-<a href="https://vikakumachr.blog/" target="_blank">
-  <img src="https://img.shields.io/badge/VkC's Blog-83789a?style=for-the-badge&logo=readme&logoColor=white" alt="VkC's Blog" />
-</a>
 
 ## Software & Programming Languages
 
@@ -33,6 +29,10 @@
 ## Contact
 
 <p>
+  <a href="https://vikakumachr.blog/">
+  <img src="https://img.shields.io/badge/VkC's Blog-83789a?style=for-the-badge&logo=readme&logoColor=white" alt="VkC's Blog" />
+  </a>
+
   <a href="mailto:vikakumachr@gmail.com">
     <img src="https://img.shields.io/badge/Email-vikakumachr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email vikakumachr@gmail.com" />
   </a>
