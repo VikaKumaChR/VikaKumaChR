@@ -31,7 +31,7 @@
 <p>
   <a href="https://vikakumachr.blog/" target="_blank">
   <img src="https://img.shields.io/badge/VkC's Blog-83789a?style=for-the-badge&logo=readme&logoColor=white" alt="VkC's Blog" />
-</p>
+
   <a href="mailto:vikakumachr@gmail.com">
     <img src="https://img.shields.io/badge/Email-vikakumachr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email vikakumachr@gmail.com" />
   </a>
