@@ -13,9 +13,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](#)
-
-[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ### Programming Languages
