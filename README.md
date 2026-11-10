@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./Resource/GitHubReadme.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="70%" />
+  <img src="./Resource/GitHubReadme.png" alt="Illustrated creative workspace with code, color swatches, a camera, and a notebook" width="100%" />
 </div>
 
 
